@@ -734,7 +734,7 @@ nav button.login{
     border-radius: 5px;
     /* background: linear-gradient(rgba(233, 233, 233, 0.3), rgba(235, 235, 235, 0.3)), url('mirror\ bg.png'); */
     background: #fffef9;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 2px;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 5px;
