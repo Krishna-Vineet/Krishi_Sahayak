@@ -827,12 +827,18 @@ footer {
   .social-media a {
     margin-right: 10px;
   }
-  
+  .social-media a img {          
+    width: 42px;
+  }
  
   
+  .newsletter p{
+    width: 30vw;
+  }
   .newsletter form {
     display: flex;
     align-items: center;
+    width: 30vw;
   }
   
   .newsletter input[type="email"] {
@@ -871,6 +877,7 @@ footer {
 }
 .suggetion{
     margin-bottom: 20px;
+    width: 30vw;
 }
 
 
