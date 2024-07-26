@@ -21,7 +21,7 @@ api.then((response) => {
             let dateObject = new Date(e.arrival_date);
             let day = dateObject.getUTCDate();
             let month = dateObject.getUTCMonth() + 1; // Months are zero-based, so add 1
-            let year = dateObject.getUTCFullYear();
+            let year = dateObject.getUTCFullYear() + 2;
             date = `${day}/${month}/${year}`
 
 
